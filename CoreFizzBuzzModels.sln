@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreFizzBuzzModels", "CoreFizzBuzzModels\CoreFizzBuzzModels.csproj", "{13F94402-5E8D-40F0-AB75-0A0D619737DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F94402-5E8D-40F0-AB75-0A0D619737DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F94402-5E8D-40F0-AB75-0A0D619737DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F94402-5E8D-40F0-AB75-0A0D619737DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F94402-5E8D-40F0-AB75-0A0D619737DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5539D2B-759B-4846-9926-FA54A0FA310B}
+	EndGlobalSection
+EndGlobal

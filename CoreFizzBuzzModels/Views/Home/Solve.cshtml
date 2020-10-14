@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Solve";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Solve">
+    <div class="row">
+        <div class="col">
+            <input type="text" name="input1" />
+        </div>
+        <div class="col">
+            <input type="text" name="input2" />
+        </div>
+        <div class="col">
+            <input type="submit" class="btn btn-warning" value="Click" />
+        </div>
+    </div>
+</form>
+
+<div class="row">
+    <div class="col">
+        Output: @ViewData["Output"]
+    </div>
+</div>
